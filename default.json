@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://{USERNAME}:{PASSWORD}@shopinglistmern-lp70p.mongodb.net/test?retryWrites=true",
+    "jwtSecret": "JSON WEB TOKEN PASSWORD (You decide)"
+}
